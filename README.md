@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا طير الوروار طر في الأعالي
+> احمل غرامي في ليل الخيالِ
+> خذني إليها، حقق آمالي
+> يا عشقاً أضاء كل الليالي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
